@@ -1,0 +1,11 @@
+C:\Users\Kyle Shirley\Desktop\codingDojo\c#\DeckOCards\bin\Debug\netcoreapp2.2\DeckOCards.deps.json
+C:\Users\Kyle Shirley\Desktop\codingDojo\c#\DeckOCards\bin\Debug\netcoreapp2.2\DeckOCards.runtimeconfig.json
+C:\Users\Kyle Shirley\Desktop\codingDojo\c#\DeckOCards\bin\Debug\netcoreapp2.2\DeckOCards.runtimeconfig.dev.json
+C:\Users\Kyle Shirley\Desktop\codingDojo\c#\DeckOCards\bin\Debug\netcoreapp2.2\DeckOCards.dll
+C:\Users\Kyle Shirley\Desktop\codingDojo\c#\DeckOCards\bin\Debug\netcoreapp2.2\DeckOCards.pdb
+C:\Users\Kyle Shirley\Desktop\codingDojo\c#\DeckOCards\obj\Debug\netcoreapp2.2\DeckOCards.csprojAssemblyReference.cache
+C:\Users\Kyle Shirley\Desktop\codingDojo\c#\DeckOCards\obj\Debug\netcoreapp2.2\DeckOCards.csproj.CoreCompileInputs.cache
+C:\Users\Kyle Shirley\Desktop\codingDojo\c#\DeckOCards\obj\Debug\netcoreapp2.2\DeckOCards.AssemblyInfoInputs.cache
+C:\Users\Kyle Shirley\Desktop\codingDojo\c#\DeckOCards\obj\Debug\netcoreapp2.2\DeckOCards.AssemblyInfo.cs
+C:\Users\Kyle Shirley\Desktop\codingDojo\c#\DeckOCards\obj\Debug\netcoreapp2.2\DeckOCards.dll
+C:\Users\Kyle Shirley\Desktop\codingDojo\c#\DeckOCards\obj\Debug\netcoreapp2.2\DeckOCards.pdb
